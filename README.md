@@ -8,9 +8,8 @@ Hi! I'm a 3rd-year B.Tech student building full-stack applications and AI-powere
 
 ## 🚀 Featured Projects
 
-### **SafeCrowdAI** | Computer Vision × Crowd Monitoring  
+### **SafeCrowdAI** | Computer Vision × Crowd Monitoring 
 🏆 *Semi-Finals ET GenAI Hackathon 2026 (Top 50 of 55,000+ teams)*  
-**[GitHub](link) | [Demo](link)**
 
 Real-time crowd density monitoring using CAN models and density map estimation. Built on Google Colab with Python, PyTorch, and OpenCV.
 
@@ -18,8 +17,7 @@ Real-time crowd density monitoring using CAN models and density map estimation. 
 - Optimized data preprocessing for large-scale inference
 - *Tech: Python, PyTorch, OpenCV, Google Colab*
 
-### **PrepWiseAI** | Full-Stack SaaS  
-**[GitHub](link) | [Live](link)**
+### **PrepWiseAI** | Full-Stack SaaS
 
 AI-powered flashcard & quiz generation from PDFs. MERN stack with intelligent text extraction.
 
@@ -28,15 +26,13 @@ AI-powered flashcard & quiz generation from PDFs. MERN stack with intelligent te
 - MongoDB Atlas database optimization
 - *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*
 
-### **DiagnoZen** | AI Healthcare Prediction App  
-**[GitHub](link)**
+### **DiagnoZen** | AI Healthcare Prediction App
 
 Predictive health diagnostics using machine learning.
 
 - *Tech: React, Python, Flask, scikit-learn*
 
-### **Vitara** | Real Estate Platform  
-**[GitHub](link)**
+### **Vitara** | Real Estate Platform 
 
 Full-stack marketplace for property listings and management.
 
@@ -58,7 +54,6 @@ Full-stack marketplace for property listings and management.
 ## 📈 Highlights
 
 - **300+ LeetCode problems** solved | Competitive programming enthusiast
-- **CGPA:** [Your CGPA]
 - **Top Skills:** MERN Stack, Python, AI/ML, Database Design, System Design
 - Active hackathon participant
 
@@ -81,10 +76,8 @@ cd portfolio
 
 ## 📬 Get in Touch
 
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/ashlesha-chauhan](link)  
-**GitHub:** [github.com/your-username](link)  
-**Portfolio Website:** [your-portfolio.com](link)  
+**Email:** chauhanashlesha980@gmail.com.com  
+**LinkedIn:** [https://www.linkedin.com/in/ashlesha-chauhan-baa8572a6/](link)  
 
 ---
 
