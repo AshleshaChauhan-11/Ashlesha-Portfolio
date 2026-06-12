@@ -1,19 +1,97 @@
-# Ashlesha Chauhan — Portfolio Website
+# Ashlesha Chauhan | Full-Stack Developer & AI Enthusiast
 
-A modern, responsive, recruiter-friendly portfolio built with **vanilla HTML, CSS & JavaScript** — ready to deploy on **GitHub Pages**.
+**Computer Science (AI) Student | PSIT, Kanpur | AKTU**
 
-## Files
-- `index.html` — all sections (Home, About, Skills, Projects, Resume, Contact)
-- `style.css` — design system, dark/light theming, responsive layout, animations
-- `script.js` — theme toggle, typing effect, scroll reveal, animated skill bars & counters, mobile nav, contact form
-- `assets/profile.jpg` — profile photo (replace with your own)
-- `assets/Ashlesha_Chauhan_Resume.pdf` — your uploaded resume (already included)
+Hi! I'm a 3rd-year B.Tech student building full-stack applications and AI-powered systems. I solve complex problems with clean code and ship projects that matter.
 
-## Real details already filled in
-- Email: chauhanashlesha980@gmail.com · Phone: +91 73076 97355
-- Education: B.Tech CSE, AKTU (2023–Present); ISC 72.20% (2023); ICSE 87% (2021)
-- Projects: SafeCrowdAI, Vitara Real Estate, Offline UPI
-- Achievements: ET GenAI Hackathon 2026 Semi-Finalist (55,000+ teams), NxtWave Buildathon State-Level, 300+ LeetCode
-- Certifications: ET AI Hackathon 2026, Full Stack (Udemy), React JS (Simplilearn), Python (Infosys Springboard)
+---
 
+## 🚀 Featured Projects
 
+### **SafeCrowdAI** | Computer Vision × Crowd Monitoring  
+🏆 *Semi-Finals ET GenAI Hackathon 2026 (Top 50 of 55,000+ teams)*  
+**[GitHub](link) | [Demo](link)**
+
+Real-time crowd density monitoring using CAN models and density map estimation. Built on Google Colab with Python, PyTorch, and OpenCV.
+
+- Implemented density map estimation pipeline
+- Optimized data preprocessing for large-scale inference
+- *Tech: Python, PyTorch, OpenCV, Google Colab*
+
+### **PrepWiseAI** | Full-Stack SaaS  
+**[GitHub](link) | [Live](link)**
+
+AI-powered flashcard & quiz generation from PDFs. MERN stack with intelligent text extraction.
+
+- Designed and built REST API with Node.js/Express
+- Implemented PDF upload & AI text processing
+- MongoDB Atlas database optimization
+- *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*
+
+### **DiagnoZen** | AI Healthcare Prediction App  
+**[GitHub](link)**
+
+Predictive health diagnostics using machine learning.
+
+- *Tech: React, Python, Flask, scikit-learn*
+
+### **Vitara** | Real Estate Platform  
+**[GitHub](link)**
+
+Full-stack marketplace for property listings and management.
+
+- *Tech: MERN, REST APIs, AWS*
+
+---
+
+## 💻 Technical Skills
+
+**Languages:** JavaScript, Python, C++, Java  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML/CSS  
+**Backend:** Node.js, Express.js, Python, Flask  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, AWS, Google Colab, Docker  
+**Specialties:** Full-stack development, GenAI, Computer Vision, REST APIs  
+
+---
+
+## 📈 Highlights
+
+- **300+ LeetCode problems** solved | Competitive programming enthusiast
+- **CGPA:** [Your CGPA]
+- **Top Skills:** MERN Stack, Python, AI/ML, Database Design, System Design
+- Active hackathon participant
+
+---
+
+## 🛠️ How to Use This Repo
+
+This portfolio is a collection of my projects. Each project folder contains:
+- Source code with documentation
+- Setup instructions
+- Live demo links (where available)
+
+To explore locally:
+```bash
+git clone https://github.com/your-username/portfolio
+cd portfolio
+```
+
+---
+
+## 📬 Get in Touch
+
+**Email:** your.email@example.com  
+**LinkedIn:** [linkedin.com/in/ashlesha-chauhan](link)  
+**GitHub:** [github.com/your-username](link)  
+**Portfolio Website:** [your-portfolio.com](link)  
+
+---
+
+## ✨ What I'm Looking For
+
+**SDE Intern roles** in full-stack development and GenAI space | Open to roles with **React, Node.js, Python, AI/ML focus**
+
+---
+
+*Last updated: June 2026*
