@@ -2,6 +2,8 @@
 
 **Computer Science (AI) Student | PSIT, Kanpur | AKTU**
 
+🌐 **Portfolio:** [https://ashleshachauhan-11.github.io/Ashlesha-Portfolio/](Link)
+
 Hi! I'm a 3rd-year B.Tech student building full-stack applications and AI-powered systems. I solve complex problems with clean code and ship projects that matter.
 
 ---
